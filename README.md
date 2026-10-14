@@ -1,6 +1,6 @@
 # cs101-version-control-388
 
-# MY CS Profile
+# My CS Profile
 
 ## About Me
 - Name: Benyapa Jongthanalertporn
@@ -14,3 +14,9 @@
 ## Technology Interests
 - Artificial Intelligence
 - Game Development
+
+## Skills
+- Problem solving
+- Python basics
+- Teamwork
+- Social
